@@ -187,3 +187,12 @@ Tick these off as you go.
 ---
 
 *Tip: study in order — each lesson assumes the ones before it. Good luck. You've got this. 🐍🚀*
+
+
+---
+
+## 📚 More courses in this series
+
+- [PHP & Laravel Mastery](https://github.com/Hassan07-Dev/PHP-Laravel-Mastery)
+- [Node.js & Express Mastery](https://github.com/Hassan07-Dev/Node-Js-Mastery)
+- [React from Scratch to Expert](https://github.com/Hassan07-Dev/react-course)
